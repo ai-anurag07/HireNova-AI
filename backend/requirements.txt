@@ -1,0 +1,38 @@
+# Web Server & Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database Connections
+sqlalchemy
+asyncpg
+psycopg[binary]
+redis
+
+# Security & Authentication (Swapped to Windows-friendly versions)
+PyJWT
+passlib
+bcrypt
+
+# Model Context Protocol (MCP)
+mcp
+
+# Free AI Brain (Groq API)
+groq
+
+# Document Parsing
+pdfplumber
+python-docx
+
+# Storage 
+minio
+
+# Free Voice 
+edge-tts
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+
+email-validator

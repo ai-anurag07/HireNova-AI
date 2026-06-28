@@ -1,0 +1,11 @@
+# Ignore Python Virtual Environment
+backend/venv/
+backend/__pycache__/
+backend/chroma_data/
+
+# Ignore Node.js heavy files
+frontend/node_modules/
+frontend/.next/
+
+# CRITICAL: Ignore Secret API Keys
+**/.env
